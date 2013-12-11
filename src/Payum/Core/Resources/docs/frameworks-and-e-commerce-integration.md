@@ -17,7 +17,7 @@ Sylius is a modern e-commerce platform built on symfony2 framework. It already i
 
 * [Vespolina](http://vespolina.org/).
 
-Vespolina another one e-commerce solution. It's also built on top of symfony2 framework. It is in the integration phase. More details could be found in the [Pull Request](https://github.com/vespolina/vespolina-sandbox/pull/107).
+Vespolina is another one e-commerce solution. It's also built on top of symfony2 framework. It is in the integration phase. More details could be found in the [Pull Request](https://github.com/vespolina/vespolina-sandbox/pull/107).
 
 * [Speckcommerce](https://github.com/speckcommerce/speck).
 
